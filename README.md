@@ -24,10 +24,12 @@ If you are at the beginning of your data science and machine learning journey I 
 * [plotly](https://plot.ly/)
 * [mapbox](https://www.mapbox.com/)
 * [folium](https://github.com/python-visualization/folium)
+* [jupyter](https://jupyter.org/)
 * and others
 
 ## Credits
 * [Hands-On ML](https://github.com/ageron/handson-ml)
+* Many credits due to kaggle kernels' model are placed within jupyter notebooks.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/mihalw28/NYC_crimes_2018/blob/master/LICENSE) file for details.
