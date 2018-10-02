@@ -1,10 +1,10 @@
 # NYC_crimes_2018
-Analysis of NYPD crimes applications from the first half of 2018.
+Analysis of NYPD crimes applications from fall 2016 to spring 2018.
 
 ![](screenshot.png)
 
 ## Motivation
-This is my first learning project combining data cleaning, basic machine learning algorithms and visualistion tools together. You will not find sophisticated and complicated solutions here for now. Dataset which I bring into play could be very informative, therefore I will try to develope this project over time.
+This is my first learning project combining data cleaning, basic machine learning algorithms and visualistion tools together. You will not find sophisticated and complicated solutions here for now. Dataset which I bring into play could be very informative, therefore I will try to develop this project over time.
 
 ## Getting started
 All noteboks form this repository are created using [kaggle](https://www.kaggle.com) kernels, so the easiest way to reproduce it would be to fork one of the following:
