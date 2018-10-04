@@ -1,5 +1,5 @@
 # NYC_crimes_2018
-Analysis of NYPD crimes applications from fall 2016 to spring 2018.
+Analysis of NYPD crimes applications mostly of spring 2018.
 
 ![](screenshot.png)
 
